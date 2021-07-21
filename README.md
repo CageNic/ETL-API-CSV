@@ -17,7 +17,7 @@ Perl and LWP::UserAgent
 
 <font color=hotpink>text</font>  
 
-<ffont color=purple>text</font>  
+<font color=purple>text</font>  
 
 
 <p style="color:blue">This is demo content.</p>
