@@ -6,6 +6,9 @@
 Work related project - so true endpoints and bearer keys are redacted for security reasons
 Perl and LWP::UserAgent  
 
+You can copy/paste the code to the right to add to your posts. Just remove the "!"s and replace "text" with the text you want to appear in color.  
+
+
 <font color=red>text</font>  
   
 <font color=blue>text</font>  
@@ -17,5 +20,3 @@ Perl and LWP::UserAgent
 <font color=hotpink>text</font>  
 
 <ffont color=purple>text</font>  
-
-You can copy/paste the code to the right to add to your posts. Just remove the "!"s and replace "text" with the text you want to appear in color.
