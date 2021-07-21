@@ -19,7 +19,6 @@ Perl and LWP::UserAgent
 
 <ffont color=purple>text</font>  
 
-<!DOCTYPE html>
 <html>
    <head>
       <title>HTML Font color</title>
