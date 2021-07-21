@@ -20,6 +20,4 @@ Perl and LWP::UserAgent
 <ffont color=purple>text</font>  
 
 
-      <h1>Products</h1>  
-      
-      <p style="color:blue">This is demo content.</p>
+<p style="color:blue">This is demo content.</p>
