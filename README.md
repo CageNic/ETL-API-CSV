@@ -18,3 +18,14 @@ Perl and LWP::UserAgent
 <font color=hotpink>text</font>  
 
 <ffont color=purple>text</font>  
+
+<!DOCTYPE html>
+<html>
+   <head>
+      <title>HTML Font color</title>
+   </head>
+   <body>
+      <h1>Products</h1>
+      <p style="color:blue">This is demo content.</p>
+   </body>
+</html>
