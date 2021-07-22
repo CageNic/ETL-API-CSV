@@ -5,19 +5,3 @@
 **No..reference it to a file handle**
 Work related project - so true endpoints and bearer keys are redacted for security reasons
 Perl and LWP::UserAgent  
-
-
-<font color=red>text</font>  
-  
-<font color=blue>text</font>  
-
-<font color=green>text</font>  
-
-<font color=darkorange>text</font>  
-
-<font color=hotpink>text</font>  
-
-<font color=purple>text</font>  
-
-
-<p style="color:blue">This is demo content.</p>
